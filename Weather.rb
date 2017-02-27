@@ -1,7 +1,7 @@
 require "unirest"
 # version 1.00
 # This is a weather information script that works through command line.
-# The script works by making a http get request for information on the weather for a specific city to openweathermap api
+# The script works by making a http get request for information on the weather for a specific city through openweathermap api
 # openweathermap api then returns a json object containing the information which is then parsed and displayed on command line.
 
 
